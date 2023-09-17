@@ -5,3 +5,4 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 
 Takeaway: There are just so many dev tools! 
 
+###Alvis Yan's thought: There are so many indeed! Most of them I have never heard of. Too bad that they didn't put this up for free. 
