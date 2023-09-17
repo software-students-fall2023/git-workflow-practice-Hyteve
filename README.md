@@ -4,3 +4,4 @@
 
 Takeaway: There are just so many dev tools! It seems to me that the learning of CS nowadays shouldn't be limited to only about tools and programming languages; instead, we should be more focused on how to learn and adopt to unknown tools and knowledge. Different companies and even different teams in the same companies might adopt different tools and environments for production, so the ability to quickly master those toolkits might be essential in the future. 
 
+###Alvis Yan's thought: There are so many indeed! Most of them I have never heard of. Too bad that they didn't put this up for free. 
